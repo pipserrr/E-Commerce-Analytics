@@ -1,0 +1,583 @@
+﻿product_id,reviewer_name,rating,comment,review_date,ai_sentiment,ai_issue_category
+1,Eleanor Collins,3,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+1,Lucas Gordon,4,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+1,Eleanor Collins,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+2,Savannah Gomez,5,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+2,Christian Perez,4,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+2,Nicholas Bailey,1,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+3,Alexander Jones,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+3,Elijah Cruz,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+3,Avery Perez,1,Very dissatisfied!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+4,Liam Garcia,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+4,Ruby Andrews,5,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+4,Clara Berry,5,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+5,Benjamin Wilson,2,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+5,Liam Smith,5,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+5,Clara Berry,1,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+6,Layla Young,2,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+6,Daniel Cook,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+6,Jacob Cooper,3,Not as described!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+7,Ruby Andrews,4,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+7,Leah Henderson,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+7,Xavier Wright,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+8,Nicholas Bailey,5,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+8,Penelope Harper,4,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+8,Emma Miller,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+9,Mateo Bennett,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+9,Nolan Gonzalez,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+9,Aurora Lawson,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+10,Cameron Perez,1,Very dissatisfied!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+10,Daniel Cook,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+10,Addison Wright,4,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+11,Christopher West,2,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+11,Vivian Carter,4,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+11,Mason Wright,1,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+12,Christian Perez,3,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+12,Lillian Bishop,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+12,Lillian Simmons,1,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+13,Aaliyah Hanson,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+13,Liam Smith,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+13,Avery Barnes,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+14,Ella Cook,2,Waste of money!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+14,Clara Berry,2,Very dissatisfied!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+14,Elena Long,5,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+15,Logan Torres,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+15,Aria Parker,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+15,Dylan Wells,3,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+16,Sophia Brown,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+16,Scarlett Bowman,1,Very dissatisfied!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+16,William Gonzalez,3,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+17,Eleanor Tyler,3,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+17,Alexander Jones,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+17,Natalie Harris,5,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+18,Noah Lewis,3,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+18,Ruby Andrews,3,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+18,Ethan Thompson,2,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+19,Mateo Bennett,5,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+19,Jackson Evans,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+19,Sadie Morales,3,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+20,Victoria McDonald,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+20,Hazel Evans,2,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+20,Zoe Bennett,5,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+21,Lincoln Kelly,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+21,Savannah Gomez,4,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+21,James Davis,2,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+22,Nicholas Edwards,5,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+22,Zachary Lee,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+22,Nova Cooper,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+23,Penelope King,3,Disappointing product!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+23,Eleanor Tyler,3,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+23,Benjamin Foster,4,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+24,Caleb Perkins,2,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+24,Isabella Jackson,5,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+24,Nathan Dixon,4,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+25,Avery Carter,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+25,Henry Hill,3,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+25,Addison Wright,5,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+26,Luna Russell,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+26,Noah Lewis,1,Waste of money!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+26,Clara Berry,3,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+27,Autumn Gomez,1,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+27,Benjamin Wilson,4,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+27,Nicholas Edwards,2,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+28,Elijah Cruz,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+28,Jace Smith,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+28,Sadie Morales,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+29,Nolan Gonzalez,5,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+29,Bella Grant,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+29,Aria Flores,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+30,Emily Brown,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+30,Jackson Morales,2,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+30,Nora Russell,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+31,Logan Lawson,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+31,Avery Perez,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+31,Benjamin Foster,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+32,Nicholas Bailey,4,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+32,Harper Turner,3,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+32,Autumn Gomez,5,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+33,Avery Barnes,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+33,Sadie Morales,2,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+33,Oscar Powers,1,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+34,Gabriel Adams,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+34,Ella Cook,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+34,Logan Torres,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+35,Eleanor Collins,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+35,Lily Torres,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+35,Ariana Ross,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+36,Aurora Rodriguez,3,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+36,Miles Stevenson,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+36,Clara Berry,4,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+37,Maya Reed,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+37,Evelyn Gonzalez,3,Very dissatisfied!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+37,Jackson Evans,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+38,Sophia Brown,5,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+38,Grace Perry,4,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+38,Cameron Burke,1,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+39,Zachary Lee,2,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+39,Oscar Powers,2,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+39,Hannah Robinson,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+40,Amelia Perez,3,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+40,Olivia Wilson,3,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+40,Hunter Gordon,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+41,Ariana Ross,1,Not as described!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+41,Carter Baker,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+41,Penelope Harper,5,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+42,Jonathan Pierce,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+42,Grayson Coleman,2,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+42,Ethan Fletcher,3,Not as described!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+43,Daniel Cook,1,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+43,Hunter Gordon,2,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+43,Stella Morris,3,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+44,Oscar Powers,4,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+44,Austin Hudson,5,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+44,Luke Cooper,2,Very dissatisfied!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+45,Natalie Harris,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+45,Max Russell,1,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+45,Nolan Gonzalez,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+46,Vivian Carter,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+46,Ella Adams,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+46,Liam Smith,3,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+47,Benjamin Foster,5,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+47,Sophia Jones,3,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+47,Natalie Harris,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+48,Lucas Ramirez,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+48,Caleb Perkins,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+48,Nolan Gonzalez,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+49,Alexander Hernandez,3,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+49,Aurora Rodriguez,5,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+49,Benjamin Foster,1,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+50,Cameron Perez,3,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+50,Benjamin Foster,1,Waste of money!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+50,Paisley Bell,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+51,Ella Adams,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+51,Ruby Andrews,5,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+51,Aurora Lawson,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+52,Nolan Bryant,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+52,Luna Perez,4,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+52,Noah Lewis,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+53,Xavier Wright,5,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+53,Henry Turner,4,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+53,Evelyn Walker,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+54,Lucas Ramirez,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+54,Eleanor Collins,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+54,Mila Hernandez,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+55,Harper Garcia,3,Very dissatisfied!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+55,Lily Torres,4,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+55,Tyler Davis,1,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+56,Ava Harris,1,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+56,Liam Smith,2,Very dissatisfied!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+56,Christian Perez,4,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+57,Isabella Anderson,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+57,Aaliyah Hanson,4,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+57,Layla Sullivan,2,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+58,Elena Baker,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+58,Avery Scott,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+58,Mateo Perez,2,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+59,Jackson Evans,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+59,Nicholas Bailey,3,Waste of money!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+59,Nathan Reed,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+60,Ella Adams,1,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+60,Eli Ward,1,Not as described!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+60,James Garcia,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+61,Hazel Evans,5,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+61,Hannah Howard,4,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+61,Jonathan Pierce,1,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+62,Isaac Lawrence,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+62,Leo Rivera,5,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+62,Henry Turner,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+63,Stella Morris,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+63,Henry Adams,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+63,Lillian Simmons,4,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+64,Aaliyah Martinez,2,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+64,Addison Wright,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+64,Mateo Nguyen,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+65,Jace Smith,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+65,Zoe Bennett,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+65,Michael Johnson,2,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+66,Nora Russell,3,Very dissatisfied!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+66,Alice Smith,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+66,Ethan Fletcher,2,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+67,Bella Grant,1,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+67,Paisley Bell,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+67,David Martinez,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+68,Michael Johnson,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+68,Adrian Flores,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+68,Nicholas Bailey,1,Not as described!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+69,Mia Miller,3,Disappointing product!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+69,Henry Adams,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+69,Nora Russell,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+70,Xavier Wright,4,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+70,Stella Hughes,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+70,Jaxon Barnes,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+71,Julian Newton,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+71,Noah Lewis,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+71,Brayden Hill,1,Disappointing product!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+72,Ava Taylor,1,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+72,Liam Smith,2,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+72,Gabriel Mitchell,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+73,Elena Baker,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+73,Owen Fisher,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+73,Sadie Morales,2,Waste of money!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+74,Jackson Evans,3,Waste of money!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+74,Elena Baker,1,Disappointing product!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+74,Bella Gonzalez,4,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+75,Samantha Howard,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+75,Benjamin Wilson,3,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+75,Caleb Nelson,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+76,Aurora Lawson,2,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+76,Ava Taylor,3,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+76,Mila Hernandez,5,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+77,Claire Foster,1,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+77,Aaliyah Hanson,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+77,Olivia Wilson,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+78,Hazel Evans,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+78,Christopher West,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+78,Aubrey Garcia,4,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+79,Michael Johnson,4,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+79,Zoe Bennett,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+79,Mila Hernandez,4,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+80,Evan Wright,4,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+80,Hunter Gordon,4,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+80,William Gonzalez,1,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+81,Bella Gonzalez,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+81,Nathan Reed,5,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+81,Hazel Gardner,4,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+82,Charlotte Lopez,3,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+82,Alice Smith,4,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+82,Ava Taylor,2,Disappointing product!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+83,Logan Lee,1,Waste of money!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+83,Zachary Lee,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+83,Aurora Rodriguez,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+84,Amelia Perez,5,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+84,Tyler Davis,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+84,Harper King,1,Disappointing product!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+85,Aubrey Wagner,3,Disappointing product!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+85,Evan Reed,4,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+85,Evelyn Gonzalez,2,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+86,Charlotte Lopez,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+86,Ellie Stewart,2,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+86,Sadie Morales,1,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+87,Mateo Nguyen,3,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+87,Lucas Allen,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+87,Henry Adams,2,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+88,Elena Long,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+88,Addison Wright,4,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+88,Mason Wright,1,Waste of money!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+89,Aaron Cook,5,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+89,Noah Lewis,2,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+89,Michael Johnson,3,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+90,Jackson Morales,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+90,Sophia Jones,1,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+90,Logan Torres,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+91,Sadie Morales,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+91,Julian Newton,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+91,Logan Lee,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+92,Aurora Lawson,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+92,Gabriel Mitchell,5,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+92,Eli Bennett,1,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+93,James Garcia,1,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+93,Avery Barnes,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+93,David Martinez,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+94,Eli Ward,4,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+94,Owen Fisher,3,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+94,Nathan Reed,5,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+95,Owen Sullivan,3,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+95,Jonathan Pierce,4,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+95,Adrian Flores,1,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+96,Ella Adams,3,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+96,Leo Rivera,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+96,Emma Miller,4,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+97,Alice Smith,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+97,Abigail Rivera,4,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+97,Daniel Cook,3,Waste of money!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+98,Luna Perez,4,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+98,Hannah Robinson,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+98,Aaliyah Hanson,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+99,Chloe Morales,2,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+99,Mateo Perez,3,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+99,Evelyn Walker,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+100,Christopher West,3,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+100,Emma Wilson,5,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+100,Xavier Wright,4,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+101,Henry Adams,5,Excellent quality!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+101,Elijah Cruz,4,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+101,William Lopez,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+102,Christian Perez,5,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+102,Ruby Andrews,4,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+102,Harper Turner,3,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+103,Max Russell,5,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+103,Isaac Lawrence,3,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+103,Avery Carter,4,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+104,Sadie Morales,1,Very disappointed!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+104,Lily Torres,5,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+104,Luke Cooper,2,Waste of money!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+105,Stella Morris,2,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+105,Henry Adams,2,Not as described!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+105,Cameron Burke,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+106,Chloe Morales,3,Very unhappy with my purchase!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+106,Ava Harrison,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+106,Nicholas Bailey,4,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+107,William Gonzalez,2,Disappointing product!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+107,Gabriel Mitchell,5,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+107,Gabriel Adams,2,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+108,Penelope King,2,Would not buy again!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+108,Isabella Anderson,5,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+108,Claire Foster,5,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+109,Max Parker,1,Not worth the price!,2025-04-30T09:41:02.053Z,Negative,Pricing & Value
+109,Maya Reed,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+109,Mila Hernandez,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+110,Luke Cooper,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+110,Caleb Perkins,3,Poor quality!,2025-04-30T09:41:02.053Z,Negative,Product Quality
+110,Benjamin Wilson,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+111,Ryan Graham,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+111,Nora Russell,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+111,Luna Perez,1,Very dissatisfied!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+112,Aubrey Gutierrez,3,Would not recommend!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+112,Carter Rivera,5,Would buy again!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+112,Max Russell,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+113,Hunter Gordon,5,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+113,Nicholas Bailey,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+113,Elena Long,1,Disappointing product!,2025-04-30T09:41:02.053Z,Negative,Customer Service & Misc
+114,Scarlett Bowman,4,Highly impressed!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+114,Gabriel Bailey,5,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+114,Henry Hill,4,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+115,Brandon Collins,4,Awesome product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+115,Miles Stevenson,5,Fast shipping!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+115,Grayson Coleman,4,Highly recommended!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+116,Luna Perez,4,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+116,Samantha Howard,2,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+116,Noah Hernandez,3,Very dissatisfied!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+117,Mason Parker,5,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+117,Daniel Cook,1,Would not recommend!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+117,Isabella Anderson,1,Very disappointed!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+118,Liam Garcia,5,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+118,Victoria McDonald,4,Great product!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+118,Hannah Robinson,5,Very happy with my purchase!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+119,Abigail Rivera,4,Very satisfied!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+119,Hunter Gordon,4,Great value for money!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+119,Zoe Bennett,4,Very pleased!,2025-04-30T09:41:02.053Z,Positive,None (Satisfied)
+120,Aria Ferguson,4,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+120,Nova Cooper,5,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+120,Madison Collins,4,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+121,Jace Smith,5,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+121,Logan Torres,1,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+121,Harper Kelly,5,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+122,Stella Morris,3,Disappointing product!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+122,Nolan Gonzalez,4,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+122,Benjamin Foster,5,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+123,Christian Perez,5,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+123,Liam Gonzalez,3,Not worth the price!,2025-04-30T09:41:02.054Z,Negative,Pricing & Value
+123,Tristan Scott,5,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+124,Tyler Davis,4,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+124,Aria Parker,5,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+124,Lily Torres,2,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+125,Scarlett Wright,4,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+125,Jacob Cooper,5,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+125,Zoe Nicholson,2,Poor quality!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+126,Emily Johnson,5,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+126,Jaxon Barnes,5,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+126,Nova Cooper,4,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+127,Christopher West,4,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+127,Mia Miller,4,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+127,Ella Adams,2,Very dissatisfied!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+128,Penelope King,4,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+128,Asher Scott,2,Very unhappy with my purchase!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+128,Henry Adams,4,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+129,Hazel Evans,5,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+129,Brayden Fleming,5,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+129,Madison Stewart,5,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+130,Emily Brown,4,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+130,Ella Cook,3,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+130,Layla Sullivan,5,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+131,Julian James,1,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+131,Lucas Gordon,4,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+131,Ava Taylor,4,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+132,Owen Fisher,4,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+132,Clara Berry,4,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+132,Tyler Davis,4,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+133,Tristan Scott,4,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+133,Christopher West,5,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+133,Amelia Perez,2,Would not recommend!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+134,Samantha Martinez,4,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+134,Logan Lee,3,Very disappointed!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+134,Sophia Jones,4,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+135,Logan Lawson,2,Very unhappy with my purchase!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+135,Layla Young,5,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+135,Asher Scott,4,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+136,Liam Gonzalez,4,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+136,Aurora Barnes,4,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+136,Evelyn Walker,2,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+137,Scarlett Bowman,4,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+137,Tristan Scott,4,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+137,Eleanor Tyler,4,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+138,Scarlett Wright,5,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+138,Carter Baker,4,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+138,Aria Flores,1,Poor quality!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+139,Hazel Gardner,1,Very unhappy with my purchase!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+139,Scarlett Wright,4,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+139,Nathan Reed,3,Would not recommend!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+140,Mia Rodriguez,5,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+140,Ella Adams,2,Would not buy again!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+140,Aubrey Garcia,4,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+141,Mason Wright,4,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+141,Tristan Scott,5,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+141,Max Parker,1,Would not buy again!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+142,Julian James,1,Poor quality!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+142,Autumn Gomez,1,Poor quality!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+142,Liam Gonzalez,2,Waste of money!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+143,Samantha Howard,5,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+143,Ella Adams,5,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+143,Julian Newton,3,Poor quality!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+144,Henry Turner,5,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+144,Maya Reed,4,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+144,Avery Perez,4,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+145,Gabriel Mitchell,3,Very dissatisfied!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+145,Grayson Coleman,5,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+145,Grace Green,5,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+146,Liam Smith,4,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+146,Aubrey Wagner,5,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+146,Scarlett Bowman,4,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+147,Elena Long,4,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+147,Leah Gutierrez,2,Would not recommend!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+147,Nathan Dixon,4,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+148,Ella Cook,2,Not worth the price!,2025-04-30T09:41:02.054Z,Negative,Pricing & Value
+148,Cameron Perez,2,Waste of money!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+148,Mason Wright,5,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+149,Julian Newton,5,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+149,Caleb Perkins,1,Would not buy again!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+149,Aria Ferguson,5,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+150,Gabriel Bailey,5,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+150,Owen Fisher,4,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+150,Logan Lawson,5,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+151,Addison Ward,4,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+151,Max Russell,5,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+151,Luna Perez,4,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+152,Mason Parker,3,Poor quality!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+152,Gabriel Bailey,5,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+152,Lincoln Kelly,5,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+153,Carter Rivera,4,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+153,Eli Ward,1,Would not recommend!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+153,Emma Wilson,4,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+154,Jonathan Pierce,3,Would not recommend!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+154,Owen Fisher,2,Disappointing product!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+154,Samantha Martinez,4,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+155,Logan Lee,5,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+155,Jack Ward,3,Very dissatisfied!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+155,Julian James,4,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+156,Ava Taylor,3,Waste of money!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+156,Owen Sullivan,3,Disappointing product!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+156,Victoria McDonald,5,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+157,Levi Hicks,5,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+157,Ariana Ross,5,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+157,Samantha Howard,4,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+158,Olivia Wilson,5,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+158,Lillian Bishop,2,Not worth the price!,2025-04-30T09:41:02.054Z,Negative,Pricing & Value
+158,Leah Henderson,4,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+159,Eleanor Collins,4,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+159,Leo Rivera,5,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+159,Carter Rivera,4,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+160,Christopher West,5,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+160,Owen Sullivan,2,Disappointing product!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+160,Aria Roberts,2,Very disappointed!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+161,Max Russell,1,Waste of money!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+161,Lincoln Kelly,2,Poor quality!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+161,Elena Long,4,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+162,Victoria McDonald,4,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+162,Benjamin Foster,4,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+162,Addison Ward,4,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+163,Mason Pearson,5,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+163,Aubrey Garcia,4,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+163,Charlotte Davis,4,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+164,Brayden Fleming,5,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+164,Michael Johnson,4,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+164,Evelyn Sanchez,5,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+165,Gabriel Hayes,3,Disappointing product!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+165,Samantha Howard,5,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+165,Luke Cooper,4,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+166,Mason Pearson,5,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+166,Luke Cooper,3,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+166,William Lopez,4,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+167,Luna Russell,4,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+167,Harper Garcia,5,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+167,Harper Turner,2,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+168,Lily Torres,2,Not worth the price!,2025-04-30T09:41:02.054Z,Negative,Pricing & Value
+168,Hazel Evans,5,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+168,Owen Fisher,4,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+169,Autumn Gomez,5,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+169,Mateo Bennett,2,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+169,Harper Kelly,5,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+170,David Martinez,5,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+170,Nathan Dixon,4,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+170,Mila Hernandez,1,Very disappointed!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+171,Isaac Lawrence,5,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+171,Tyler Davis,5,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+171,Daniel Cook,5,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+172,Grace Perry,3,Waste of money!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+172,Evelyn Sanchez,3,Not worth the price!,2025-04-30T09:41:02.054Z,Negative,Pricing & Value
+172,Eli Ward,4,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+173,Hunter Gordon,5,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+173,Mason Parker,4,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+173,William Gonzalez,4,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+174,Caleb Perkins,2,Would not buy again!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+174,Carter Baker,4,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+174,Lucas Ramirez,5,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+175,Ava Harrison,4,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+175,Liam Garcia,1,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+175,Cameron Perez,5,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+176,Natalie Price,4,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+176,Emily Johnson,5,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+176,Henry Hill,1,Waste of money!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+177,Ethan Fletcher,4,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+177,Julian Newton,3,Very dissatisfied!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+177,Savannah Gomez,5,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+178,Natalie Price,5,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+178,Sophia Jones,4,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+178,Leo Rivera,4,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+179,Lucas Allen,5,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+179,Benjamin Wilson,2,Disappointing product!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+179,Elena Long,5,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+180,Harper Turner,4,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+180,Luna Russell,1,Not worth the price!,2025-04-30T09:41:02.054Z,Negative,Pricing & Value
+180,Michael Johnson,2,Would not buy again!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+181,Avery Perez,5,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+181,Scarlett Wright,3,Very disappointed!,2025-04-30T09:41:02.054Z,Negative,Product Quality
+181,Claire Foster,4,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+182,Michael Williams,4,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+182,Samantha Howard,5,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+182,Xavier Wright,4,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+183,Elena Long,3,Would not buy again!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+183,Layla Sullivan,5,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+183,Xavier Wright,4,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+184,Alexander Jones,5,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+184,Eli Ward,4,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+184,Carter Rivera,1,Very unhappy with my purchase!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+185,Isaac Lawrence,5,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+185,William Gonzalez,2,Not worth the price!,2025-04-30T09:41:02.054Z,Negative,Pricing & Value
+185,Sophia Jones,4,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+186,Maya Reed,5,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+186,Grace Perry,5,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+186,Eleanor Collins,1,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+187,Nolan Gonzalez,4,Excellent quality!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+187,Brayden Fleming,5,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+187,Eleanor Tyler,4,Very pleased!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+188,Nathan Reed,4,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+188,Connor Baker,4,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+188,Noah Lewis,5,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+189,Isabella Anderson,5,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+189,Luna Perez,4,Awesome product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+189,Savannah Gomez,5,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+190,Gabriel Adams,3,Disappointing product!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+190,Evan Reed,5,Great value for money!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+190,Clara Berry,3,Would not buy again!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+191,Gabriel Hayes,4,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+191,Logan Torres,5,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+191,Isabella Jackson,1,Disappointing product!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+192,Benjamin Wilson,3,Not as described!,2025-04-30T09:41:02.054Z,Negative,Customer Service & Misc
+192,Madison Collins,5,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+192,Lucas Gray,4,Very satisfied!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+193,Elena Baker,4,Highly impressed!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+193,Avery Barnes,4,Would buy again!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+193,Evelyn Sanchez,5,Great product!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+194,Harper Kelly,4,Very happy with my purchase!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+194,Gabriel Bailey,5,Highly recommended!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)
+194,Natalie Price,5,Fast shipping!,2025-04-30T09:41:02.054Z,Positive,None (Satisfied)

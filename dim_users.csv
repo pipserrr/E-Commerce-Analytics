@@ -1,0 +1,209 @@
+﻿user_id,full_name,age,gender,city,country,recency_days,frequency,monetary,rfm_segment
+1,Emily Johnson,29,female,Phoenix,United States,123,1,11510.81,Promising / New
+2,Michael Williams,36,male,Houston,United States,12,1,125.7,Promising / New
+3,Sophia Brown,43,female,Washington,United States,346,1,1625.77,Lost Customers
+4,James Davis,46,male,Seattle,United States,194,1,636.81,Lost Customers
+5,Emma Miller,31,female,Jacksonville,United States,241,1,1205.8000000000002,Lost Customers
+6,Olivia Wilson,23,female,Fort Worth,United States,185,1,46641.06,Promising / New
+7,Alexander Jones,39,male,Indianapolis,United States,40,1,1103.65,Promising / New
+8,Ava Taylor,28,female,Fort Worth,United States,108,1,5771.32,Promising / New
+9,Ethan Martinez,34,male,San Antonio,United States,352,1,27993.460000000003,Lost Customers
+10,Isabella Anderson,32,female,New York,United States,4,1,131.34,Promising / New
+11,Liam Garcia,30,male,Denver,United States,109,1,57397.84,Promising / New
+12,Mia Rodriguez,25,female,Jacksonville,United States,181,1,35410.79,Promising / New
+13,Noah Hernandez,41,male,New York,United States,201,1,14.97,Lost Customers
+14,Charlotte Lopez,37,female,Columbus,United States,108,1,184.59,Promising / New
+15,William Gonzalez,33,male,San Jose,United States,321,1,214.68,Lost Customers
+16,Avery Perez,26,female,Columbus,United States,261,1,364.7,Lost Customers
+17,Evelyn Sanchez,38,female,San Diego,United States,264,1,5014.9400000000005,Lost Customers
+18,Logan Torres,32,male,Columbus,United States,64,1,124978.81,Promising / New
+19,Abigail Rivera,29,female,Chicago,United States,21,1,21308.13,Promising / New
+20,Jackson Evans,35,male,New York,United States,140,1,4251.41,Promising / New
+21,Madison Collins,27,female,Philadelphia,United States,69,1,10966.03,Promising / New
+22,Elijah Stewart,34,male,Columbus,United States,242,1,296.47,Lost Customers
+23,Chloe Morales,40,female,Dallas,United States,297,1,2123.87,Lost Customers
+24,Mateo Nguyen,31,male,Columbus,United States,205,1,26780.04,Lost Customers
+25,Harper Kelly,28,female,Philadelphia,United States,285,1,1070.83,Lost Customers
+26,Evelyn Gonzalez,36,female,Dallas,United States,228,1,1021.64,Lost Customers
+27,Daniel Cook,42,male,Los Angeles,United States,323,1,100496.36,Lost Customers
+28,Lily Lee,30,female,Phoenix,United States,1,1,5531.37,Promising / New
+29,Henry Hill,39,male,Indianapolis,United States,281,1,2077.88,Lost Customers
+30,Addison Wright,33,female,San Francisco,United States,63,1,155507.16,Promising / New
+31,Gabriel Adams,37,male,Charlotte,United States,337,1,1111.0,Lost Customers
+32,Natalie Harris,29,female,San Jose,United States,284,1,153.2,Lost Customers
+33,Carter Baker,32,male,Denver,United States,158,1,125461.58,Promising / New
+34,Sofia Mitchell,26,female,San Francisco,United States,156,1,1240.78,Promising / New
+35,Jack Ward,30,male,Phoenix,United States,201,1,507.21,Lost Customers
+36,Harper Turner,34,female,Dallas,United States,273,1,89.37,Lost Customers
+37,Mason Parker,35,male,Seattle,United States,144,1,119.32000000000001,Promising / New
+38,Aria Roberts,27,female,Seattle,United States,98,1,334.61000000000007,Promising / New
+39,Lucas Gray,31,male,Houston,United States,52,1,249.23999999999998,Promising / New
+40,Ella Adams,28,female,Washington,United States,198,1,253.64,Lost Customers
+41,Evan Reed,33,male,San Antonio,United States,74,1,46340.09,Promising / New
+42,Avery Carter,29,female,San Diego,United States,344,1,531.1700000000001,Lost Customers
+43,Benjamin Foster,35,male,San Diego,United States,258,1,1521.19,Lost Customers
+44,Scarlett Wright,27,female,Phoenix,United States,29,1,43550.16,Promising / New
+45,Lincoln Kelly,31,male,Columbus,United States,282,1,121385.95,Lost Customers
+46,Hannah Robinson,30,female,Phoenix,United States,274,1,56101.67,Lost Customers
+47,Nicholas Bailey,36,male,Chicago,United States,191,1,49199.91,Lost Customers
+48,Luna Russell,28,female,San Diego,United States,232,1,101.89000000000001,Lost Customers
+49,Jacob Cooper,32,male,Columbus,United States,31,1,3843.75,Promising / New
+50,Stella Hughes,34,female,Jacksonville,United States,195,1,10852.119999999999,Lost Customers
+51,Eli Bennett,30,male,Jacksonville,United States,108,1,32961.03,Promising / New
+52,Grace Perry,27,female,Seattle,United States,275,1,130175.28,Lost Customers
+53,Lucas Gordon,36,male,Los Angeles,United States,203,1,1028.19,Lost Customers
+54,Ava Harrison,29,female,San Antonio,United States,230,1,9998.55,Lost Customers
+55,Owen Fisher,32,male,Chicago,United States,221,1,39.92,Lost Customers
+56,Samantha Howard,31,female,Austin,United States,197,1,109.12,Lost Customers
+57,Nathan Dixon,35,male,Columbus,United States,106,1,1158.21,Loyal Customers
+58,Bella Grant,28,female,Dallas,United States,111,1,1042.77,Loyal Customers
+59,Ethan Fletcher,34,male,Dallas,United States,230,1,61859.29,Lost Customers
+60,Lillian Simmons,33,female,Phoenix,United States,219,1,6748.39,Lost Customers
+61,Mason Pearson,29,male,Phoenix,United States,351,1,571.58,Lost Customers
+62,Leah Henderson,27,female,Austin,United States,311,1,2691.23,Lost Customers
+63,Logan Lawson,34,male,Chicago,United States,46,1,460.03999999999996,Loyal Customers
+64,Avery Barnes,30,female,Philadelphia,United States,309,1,5389.0199999999995,Lost Customers
+65,Caleb Perkins,31,male,Los Angeles,United States,242,1,1517.78,Lost Customers
+66,Aria Ferguson,28,female,San Diego,United States,60,1,1907.4099999999999,Loyal Customers
+67,Gabriel Hayes,35,male,San Jose,United States,361,1,389.6,Lost Customers
+68,Layla Sullivan,26,female,Denver,United States,15,1,221.04999999999998,Loyal Customers
+69,Christopher West,32,male,Denver,United States,230,1,6560.549999999999,Lost Customers
+70,Zoe Nicholson,33,female,Jacksonville,United States,287,1,3295.62,Lost Customers
+71,Nolan Bryant,30,male,Jacksonville,United States,344,1,72541.01,Lost Customers
+72,Victoria McDonald,28,female,Austin,United States,67,1,291.77,Loyal Customers
+73,Max Russell,35,male,Chicago,United States,214,1,20510.129999999997,Lost Customers
+74,Penelope Harper,29,female,Charlotte,United States,237,1,1379.2199999999998,Lost Customers
+75,Ryan Graham,32,male,San Antonio,United States,261,1,286.02,Lost Customers
+76,Madeline Simpson,27,female,Los Angeles,United States,128,1,36017.72,Loyal Customers
+77,Jonathan Pierce,34,male,San Diego,United States,90,1,880.59,Loyal Customers
+78,Eleanor Tyler,31,female,San Antonio,United States,39,1,109890.08,Loyal Customers
+79,Isaac Lawrence,33,male,Austin,United States,19,1,1336.5,Loyal Customers
+80,Hazel Gardner,28,female,New York,United States,99,1,1217.9299999999998,Loyal Customers
+81,Austin Hudson,30,male,Los Angeles,United States,2,1,217.41,Loyal Customers
+82,Lillian Bishop,27,female,Jacksonville,United States,212,1,1674.54,Lost Customers
+83,Dylan Wells,35,male,Philadelphia,United States,209,1,125679.00000000001,Lost Customers
+84,Aaliyah Hanson,29,female,Philadelphia,United States,282,1,542.5500000000001,Lost Customers
+85,Cameron Burke,32,male,Denver,United States,56,1,163.88,Loyal Customers
+86,Nora Mills,27,female,San Jose,United States,114,1,40809.21,Loyal Customers
+87,Hunter Gordon,34,male,Charlotte,United States,103,1,278.38,Loyal Customers
+88,Aubrey Wagner,31,female,Phoenix,United States,304,1,128.13,Lost Customers
+89,Brayden Fleming,33,male,Jacksonville,United States,228,1,2111.01,Lost Customers
+90,Scarlett Bowman,28,female,New York,United States,338,1,5010.11,Lost Customers
+91,Levi Hicks,30,male,Phoenix,United States,287,1,228.17000000000002,Lost Customers
+92,Autumn Gomez,27,female,Dallas,United States,94,1,680.1700000000001,Loyal Customers
+93,Julian Newton,35,male,Fort Worth,United States,25,1,1468.77,Loyal Customers
+94,Ruby Andrews,29,female,Dallas,United States,136,1,312.15,Loyal Customers
+95,Miles Stevenson,32,male,Charlotte,United States,103,1,129783.31,Loyal Customers
+96,Aurora Lawson,27,female,Dallas,United States,147,1,92.51,Loyal Customers
+97,Oscar Powers,34,male,Charlotte,United States,24,1,1623.42,Loyal Customers
+98,Clara Berry,31,female,Seattle,United States,66,1,896.98,Loyal Customers
+99,Gavin Stanley,33,male,Houston,United States,146,1,117.96,Loyal Customers
+100,Lila Hudson,28,female,Chicago,United States,256,1,31771.92,Lost Customers
+101,Alice Smith,29,female,Houston,United States,82,1,1464.78,Loyal Customers
+102,John Doe,36,male,Fort Worth,United States,323,1,155.13,Lost Customers
+103,Emily Brown,43,female,Houston,United States,58,1,31.790000000000003,Loyal Customers
+104,Michael Johnson,25,male,Phoenix,United States,107,1,990.53,Loyal Customers
+105,Emma Wilson,32,female,New York,United States,134,1,134.21,Loyal Customers
+106,David Martinez,40,male,Seattle,United States,114,1,94.38000000000001,Loyal Customers
+107,Olivia Anderson,30,female,Houston,United States,261,1,120.92,At Risk (Unretained)
+108,James Garcia,46,male,Washington,United States,277,1,935.63,At Risk (Unretained)
+109,Sophia Jones,34,female,Phoenix,United States,49,1,9615.550000000001,VIP / Champions
+110,Daniel Taylor,28,male,San Francisco,United States,107,1,31595.18,VIP / Champions
+111,Isabella Jackson,37,female,Charlotte,United States,75,1,11845.13,VIP / Champions
+112,Alexander Hernandez,42,male,Dallas,United States,229,1,343.42,At Risk (Unretained)
+113,Mia Miller,26,female,Denver,United States,360,1,1480.4499999999998,At Risk (Unretained)
+114,Ethan Thompson,33,male,Dallas,United States,288,1,33323.1,At Risk (Unretained)
+115,Charlotte Davis,39,female,Fort Worth,United States,36,1,4223.96,VIP / Champions
+116,William Lopez,27,male,Washington,United States,304,1,8558.54,At Risk (Unretained)
+117,Amelia Perez,44,female,New York,United States,147,1,9985.79,VIP / Champions
+118,Benjamin Wilson,31,male,Philadelphia,United States,115,1,141.14,Loyal Customers
+119,Liam Gonzalez,35,male,Columbus,United States,354,1,252.16000000000003,At Risk (Unretained)
+120,Evelyn Walker,38,female,Phoenix,United States,49,1,814.89,Loyal Customers
+121,Ava Harris,30,female,San Antonio,United States,178,1,79.41,Loyal Customers
+122,Liam Smith,45,male,Jacksonville,United States,237,1,24688.5,At Risk (Unretained)
+123,Harper King,24,female,Phoenix,United States,3,1,78514.37,VIP / Champions
+124,Noah Lewis,40,male,Denver,United States,328,1,433.96000000000004,At Risk (Unretained)
+125,Logan Lee,46,male,Los Angeles,United States,299,1,3047.8100000000004,At Risk (Unretained)
+126,Avery Scott,28,female,New York,United States,57,1,920.91,Loyal Customers
+127,Mason Wright,41,male,Indianapolis,United States,24,1,887.48,Loyal Customers
+128,Grace Green,36,female,Los Angeles,United States,216,1,9755.4,At Risk (Unretained)
+129,Lucas Allen,27,male,Jacksonville,United States,106,1,1878.79,VIP / Champions
+130,Chloe Roberts,42,female,San Jose,United States,308,1,29328.260000000002,At Risk (Unretained)
+131,Jackson Morales,34,male,Austin,United States,317,1,3474.09,At Risk (Unretained)
+132,Zoe Bennett,29,female,San Jose,United States,63,1,11523.229999999998,VIP / Champions
+133,Carter Rivera,38,male,Phoenix,United States,143,1,8818.7,VIP / Champions
+134,Nora Russell,25,female,Charlotte,United States,60,1,1740.76,VIP / Champions
+135,Elijah Cruz,30,male,Seattle,United States,152,1,751.73,Loyal Customers
+136,Madison Stewart,37,female,Indianapolis,United States,162,1,360.45,Loyal Customers
+137,Gabriel Bailey,43,male,Philadelphia,United States,185,1,10941.81,VIP / Champions
+138,Lily Torres,32,female,Chicago,United States,346,1,13292.05,At Risk (Unretained)
+139,Elijah Hill,27,male,Los Angeles,United States,5,1,36.17,Loyal Customers
+140,Hannah Howard,36,female,Indianapolis,United States,214,1,614.71,At Risk (Unretained)
+141,Owen Sullivan,44,male,Charlotte,United States,63,1,2506.71,VIP / Champions
+142,Aria Parker,28,female,Phoenix,United States,156,1,2499.07,VIP / Champions
+143,Grayson Coleman,31,male,San Francisco,United States,4,1,15464.38,VIP / Champions
+144,Ella Cook,39,female,Fort Worth,United States,137,1,3608.5699999999997,VIP / Champions
+145,Luke Cooper,26,male,San Antonio,United States,222,1,1030.1,At Risk (Unretained)
+146,Leah Hughes,33,female,Indianapolis,United States,232,1,506.06,At Risk (Unretained)
+147,Henry Turner,45,male,Philadelphia,United States,233,1,1898.1399999999999,At Risk (Unretained)
+148,Aurora Barnes,30,female,New York,United States,25,1,58.55,Loyal Customers
+149,Wyatt Perry,35,male,Charlotte,United States,101,1,34702.26,VIP / Champions
+150,Stella Morris,40,female,San Diego,United States,57,1,989.1500000000001,Loyal Customers
+151,Nathan Reed,29,male,Los Angeles,United States,110,1,222.39,Loyal Customers
+152,Paisley Bell,44,female,San Diego,United States,320,1,3369.71,At Risk (Unretained)
+153,Christian Perez,32,male,Chicago,United States,116,1,3678.46,VIP / Champions
+154,Bella Gonzalez,27,female,Jacksonville,United States,361,1,532.54,At Risk (Unretained)
+155,Nicholas Edwards,42,male,Chicago,United States,199,1,110543.89,At Risk (Unretained)
+156,Mila Hernandez,34,female,Seattle,United States,206,1,2422.79,At Risk (Unretained)
+157,Aaron Cook,28,male,Phoenix,United States,151,1,6.65,Loyal Customers
+158,Aubrey Gutierrez,37,female,Philadelphia,United States,311,1,1079.68,At Risk (Unretained)
+159,Eli Ward,31,male,Columbus,United States,294,1,396.92,At Risk (Unretained)
+160,Claire Foster,30,female,San Jose,United States,348,1,142.66,At Risk (Unretained)
+161,James Gonzales,45,male,Seattle,United States,266,1,2168.95,At Risk (Unretained)
+162,Mateo Bennett,29,male,Jacksonville,United States,65,1,2982.3199999999997,VIP / Champions
+163,Julian James,25,male,Charlotte,United States,143,1,1248.15,Loyal Customers
+164,Addison Ward,30,female,San Francisco,United States,81,1,195.93,Loyal Customers
+165,Leo Rivera,37,male,Fort Worth,United States,196,1,17751.61,At Risk (Unretained)
+166,Elena Long,43,female,San Jose,United States,310,1,108.97,At Risk (Unretained)
+167,Evan Wright,32,male,San Jose,United States,71,1,46202.72,VIP / Champions
+168,Luna Perez,27,female,San Diego,United States,175,1,91.93,Loyal Customers
+169,Jaxon Barnes,42,male,Indianapolis,United States,16,1,33456.43,VIP / Champions
+170,Penelope King,34,female,Los Angeles,United States,44,1,1512.89,Loyal Customers
+171,Connor Baker,28,male,Indianapolis,United States,186,1,191.81,At Risk (Unretained)
+172,Ariana Ross,37,female,Chicago,United States,241,1,495.78,At Risk (Unretained)
+173,Asher Scott,31,male,Dallas,United States,240,1,16911.51,At Risk (Unretained)
+174,Sadie Morales,30,female,Seattle,United States,248,1,701.39,At Risk (Unretained)
+175,Gabriel Mitchell,45,male,Charlotte,United States,261,1,302.88,At Risk (Unretained)
+176,Aaliyah Martinez,29,female,New York,United States,260,1,218.17000000000002,At Risk (Unretained)
+177,Xavier Wright,38,male,Jacksonville,United States,56,1,2299.48,VIP / Champions
+178,Savannah Gomez,26,female,Austin,United States,189,1,5846.4,At Risk (Unretained)
+179,Tyler Davis,43,male,Columbus,United States,38,1,25098.32,VIP / Champions
+180,Aurora Rodriguez,32,female,Chicago,United States,284,1,6.87,At Risk (Unretained)
+181,Brandon Collins,27,male,Dallas,United States,25,1,4138.32,VIP / Champions
+182,Ellie Stewart,42,female,Philadelphia,United States,156,1,3195.45,VIP / Champions
+183,Cameron Perez,34,male,San Jose,United States,183,1,59760.67,VIP / Champions
+184,Natalie Price,29,female,Washington,United States,211,1,13307.5,At Risk (Unretained)
+185,Henry Adams,45,male,Dallas,United States,293,1,1243.1699999999998,At Risk (Unretained)
+186,Harper Garcia,30,female,Los Angeles,United States,203,1,359.71999999999997,At Risk (Unretained)
+187,Zachary Lee,37,male,Dallas,United States,222,1,9255.33,At Risk (Unretained)
+188,Aria Flores,26,female,Indianapolis,United States,345,1,171.55,At Risk (Unretained)
+189,Tristan Scott,31,male,San Diego,United States,110,1,1172.57,Loyal Customers
+190,Leah Gutierrez,32,female,Denver,United States,141,1,53242.95,VIP / Champions
+191,Layla Young,42,female,Houston,United States,201,1,36399.0,At Risk (Unretained)
+192,Nolan Gonzalez,34,male,San Francisco,United States,140,1,67061.66,VIP / Champions
+193,Hazel Evans,29,female,Dallas,United States,334,1,565.46,At Risk (Unretained)
+194,Brayden Hill,46,male,Austin,United States,63,1,83615.86,VIP / Champions
+195,Violet Roberts,30,female,San Jose,United States,74,1,37543.810000000005,VIP / Champions
+196,Lucas Ramirez,35,male,San Francisco,United States,103,1,70006.8,VIP / Champions
+197,Eleanor Collins,38,female,Phoenix,United States,298,1,55748.9,At Risk (Unretained)
+198,Max Parker,33,male,Washington,United States,77,1,92308.32,VIP / Champions
+199,Vivian Carter,27,female,Indianapolis,United States,201,1,26800.96,At Risk (Unretained)
+200,Adrian Flores,44,male,New York,United States,293,1,21783.54,At Risk (Unretained)
+201,Maya Reed,30,female,Seattle,United States,168,1,109195.89,VIP / Champions
+202,Caleb Nelson,37,male,Philadelphia,United States,196,1,20545.55,At Risk (Unretained)
+203,Nova Cooper,32,female,Los Angeles,United States,199,1,46.54,At Risk (Unretained)
+204,Mateo Perez,46,male,Jacksonville,United States,24,1,23182.99,VIP / Champions
+205,Aubrey Garcia,29,female,Los Angeles,United States,343,1,14075.859999999999,At Risk (Unretained)
+206,Elena Baker,35,female,San Francisco,United States,294,1,213.26000000000002,At Risk (Unretained)
+207,Jace Smith,42,male,Seattle,United States,41,1,20090.11,VIP / Champions
+208,Samantha Martinez,28,female,Los Angeles,United States,139,1,260.12,Loyal Customers
